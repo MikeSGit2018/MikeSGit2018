@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Well... trying to figure out if I can create a GitHub page and what that actually means
 <!--
 **MikeSGit2018/MikeSGit2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
